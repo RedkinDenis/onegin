@@ -1,0 +1,4 @@
+#ifndef SWAP_H
+#d
+
+void Swap(void* X, void* Y, size_t s);
